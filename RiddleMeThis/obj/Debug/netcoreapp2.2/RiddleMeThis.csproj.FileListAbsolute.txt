@@ -1,0 +1,11 @@
+C:\Users\leahm\Code\C#_Practice\Codecademy_Learning\RiddleMeThis\bin\Debug\netcoreapp2.2\RiddleMeThis.deps.json
+C:\Users\leahm\Code\C#_Practice\Codecademy_Learning\RiddleMeThis\bin\Debug\netcoreapp2.2\RiddleMeThis.runtimeconfig.json
+C:\Users\leahm\Code\C#_Practice\Codecademy_Learning\RiddleMeThis\bin\Debug\netcoreapp2.2\RiddleMeThis.runtimeconfig.dev.json
+C:\Users\leahm\Code\C#_Practice\Codecademy_Learning\RiddleMeThis\bin\Debug\netcoreapp2.2\RiddleMeThis.dll
+C:\Users\leahm\Code\C#_Practice\Codecademy_Learning\RiddleMeThis\bin\Debug\netcoreapp2.2\RiddleMeThis.pdb
+C:\Users\leahm\Code\C#_Practice\Codecademy_Learning\RiddleMeThis\obj\Debug\netcoreapp2.2\RiddleMeThis.csprojAssemblyReference.cache
+C:\Users\leahm\Code\C#_Practice\Codecademy_Learning\RiddleMeThis\obj\Debug\netcoreapp2.2\RiddleMeThis.csproj.CoreCompileInputs.cache
+C:\Users\leahm\Code\C#_Practice\Codecademy_Learning\RiddleMeThis\obj\Debug\netcoreapp2.2\RiddleMeThis.AssemblyInfoInputs.cache
+C:\Users\leahm\Code\C#_Practice\Codecademy_Learning\RiddleMeThis\obj\Debug\netcoreapp2.2\RiddleMeThis.AssemblyInfo.cs
+C:\Users\leahm\Code\C#_Practice\Codecademy_Learning\RiddleMeThis\obj\Debug\netcoreapp2.2\RiddleMeThis.dll
+C:\Users\leahm\Code\C#_Practice\Codecademy_Learning\RiddleMeThis\obj\Debug\netcoreapp2.2\RiddleMeThis.pdb
